@@ -2,16 +2,17 @@ $fa-font-path: "/assets/node_modules/@fortawesome/fontawesome-free/webfonts";
 
 @import url('https://use.fontawesome.com/releases/v5.2.0/css/all.css');
 @import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Poppins:200,400,700');
+@import url('http://fonts.cdnfonts.com/css/holtwood-one-sc');
 
-$primary: #D79C34;
-$primary-light: #F9E5D0;
-$blue: #20285C;
-$pink: #ECB6B8;
-$pink-light: #F5DBDC;
+$primary: #FFD966;
+$primary-light: #FFEDBA;
+$black: #000000;
+$gray: #5D5D5D;
+$gray-light: #B3B3B3;
 $white: #FFFFFF;
 
-$family-primary:  'Poppins', sans-serif;
-$family-secondary: 'Patrick Hand SC', cursive;
+$family-primary:  'Holtwood One SC', sans-serif;
+$family-secondary: 'Poppins', sans-serif;
 
 $radius-small: 0px;
 $radius: 0px;
@@ -60,7 +61,7 @@ header {
 	z-index:1;
 	transition: background .3s;
 	h1 {
-		background:$blue;
+		background:$black;
 		color:$white;
 		padding: $button-padding-vertical $button-padding-horizontal;
 		font-size:$size-5;
@@ -73,7 +74,7 @@ header {
 			@include strong-type();
 			display:block;
 			margin:10px 0 9px 1.5rem;
-			color:$blue;
+			color:$black;
 			transition: color .3s;
 		}
 	}
@@ -95,7 +96,7 @@ header {
 		margin-bottom:0;
 		height:43px;
 		width:43px;
-		background:$blue;
+		background:$black;
 		span {
 			height:2px;
 			background:$white;
@@ -113,7 +114,7 @@ header {
 	  position: fixed;
 	  top: 0;
 	  width: 100%;
-	  background:$blue;
+	  background:$black;
 
 	  @include desktop {
 	  	h1 {
@@ -162,7 +163,7 @@ section#intro {
 		}
 		.icon {
 			transform:rotate(90deg);
-			background:$blue;
+			background:$black;
 			border-radius:50%;
 			i {
 				padding-left:3px;
@@ -186,7 +187,7 @@ section#intro {
 }
 
 section#episodes {
-	background:$blue;
+	background:$black;
 	h2 {
 		color:$white;
 		margin-bottom:$gap/4;
@@ -201,7 +202,7 @@ section#episodes {
 		.count {
 			display:block;
 			color:$white;
-			background:$pink;
+			background:$gray;
 			font-weight:$weight-bold;
 			font-size:$size-3;
 			border-radius:50%;
@@ -239,7 +240,7 @@ section#episodes {
 
 #subscribe {
 	a {
-		color:$blue;
+		color:$black;
 		text-decoration:underline;
 		transition: opacity .3s;
 		&:hover {
@@ -255,13 +256,13 @@ section#episodes {
 section#zine {
 
 	.box {
-		background: $pink-light;
+		background: $gray-light;
 		height:100%;
 		width:100%;
 
 		h2 {
 			color:$white;
-			background:$blue;
+			background:$black;
 			padding: $button-padding-vertical $button-padding-horizontal;
 			margin-left:-$box-padding;
 		}
@@ -293,17 +294,17 @@ section#events {
 	.box {
 		color:$white;
 		p a { color:$white; text-decoration: underline; }
-		background: $blue;
+		background: $black;
 
 		h2 {
-			color:$blue;
-			background:$pink;
+			color:$black;
+			background:$gray;
 			padding: $button-padding-vertical $button-padding-horizontal;
 			margin-left:-$box-padding;
 		}
 
 		.event {
-			border-top: 2px solid $pink;
+			border-top: 2px solid $gray;
 			padding: $gap/8 0 $gap/4;
 			h3 {
 				font-family: $family-secondary;
@@ -315,7 +316,7 @@ section#events {
 }
 
 section#survey {
-	background:$pink;
+	background:$gray;
 
 	.box {
 		padding:30px;
