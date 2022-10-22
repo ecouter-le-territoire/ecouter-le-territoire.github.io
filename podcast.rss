@@ -27,16 +27,12 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/assets/images/PTP_logo_itunes.jpg" />
-		<itunes:category text="Technology" />
-		<itunes:category text="Education">
-			<itunes:category text="Podcasting" />
-		</itunes:category>
+		<itunes:image href="{{ site.url }}/assets/images/ALEDT_Logo.png" />
+		<itunes:category text="News" />
 		<itunes:category text="Society &amp; Culture">
-			<itunes:category text="Philosophy" />
-			<itunes:category text="Self-help" />
+			<itunes:category text="Documentary" />
 		</itunes:category>
-		<itunes:explicit>yes</itunes:explicit>
+		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.episodes %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
@@ -50,10 +46,10 @@
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}/assets/images/PTP_logo_itunes.jpg" />
+				<itunes:image href="{{ site.url }}/assets/images/ALEDT_Logo.png" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
-				<itunes:new-feed-url>http://preservethispodcast.org/podcast.rss</itunes:new-feed-url>
+				<itunes:new-feed-url>https://ecouter-le-territoire.github.io/podcast.rss</itunes:new-feed-url>
 			</item>
 		{% endfor %}
 	</channel>
