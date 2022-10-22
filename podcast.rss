@@ -16,7 +16,7 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/assets/images/ALEDT_Logo.png</url>
+			<url>{{ site.url }}/assets/images/ALEDT_Logo.jpg</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
@@ -27,7 +27,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/assets/images/ALEDT_Logo.png" />
+		<itunes:image href="{{ site.url }}/assets/images/ALEDT_Logo.jpg" />
 		<itunes:category text="News" />
 		<itunes:category text="Society &amp; Culture">
 			<itunes:category text="Documentary" />
@@ -46,7 +46,7 @@
 				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}/assets/images/ALEDT_Logo.png" />
+				<itunes:image href="{{ site.url }}/assets/images/ALEDT_Logo.jpg" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
 				<itunes:new-feed-url>https://ecouter-le-territoire.github.io/podcast.rss</itunes:new-feed-url>
