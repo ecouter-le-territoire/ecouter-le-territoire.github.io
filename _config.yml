@@ -1,7 +1,7 @@
-title: Preserve This Podcast
-description: Preserve This Podcast is a project funded by the Andrew W. Mellon Foundation. We want to make sure that podcasts don’t disappear as software formats change and RSS hosting services go down.
+title: À l &#39 écoute du territoire
+description: À l &#39 écoute du territoire est une émission, réalisée par Renaud Chicoine-McKenzie et Paul Fontaine, de longs reportages sur les voix, les vies et les défis du territoire québécois.
 baseurl: ""
-url: "http://www.preservethispodcast.org"
+url: "http://www.ecouterleterritoire.com"
 
 # Markdown settings
 markdown: kramdown
