@@ -64,7 +64,7 @@ header {
 		background:$blue;
 		color:$white;
 		padding: $button-padding-vertical $button-padding-horizontal;
-		font-size:$size-5;
+		font-size:$size-4;
 		font-weight:$weight-bold;
 		letter-spacing:.66px;
 		transition: padding-left .3s;
@@ -336,7 +336,7 @@ section#survey {
 footer.footer {
 	padding:12px 24px;
 	font-family:$family-secondary;
-	color: $white;
+	color: $pink;
 	a, a:hover {
 		color:$white;
 		text-decoration:underline;
