@@ -6,9 +6,9 @@ $fa-font-path: "/assets/node_modules/@fortawesome/fontawesome-free/webfonts";
 
 $primary: #FFD966;
 $primary-light: #FFEDBA;
-$black: #000000;
-$gray: #5D5D5D;
-$gray-light: #B3B3B3;
+$blue: #000000;
+$pink: #5D5D5D;
+$pink-light: #B3B3B3;
 $white: #FFFFFF;
 
 $family-primary:  'Holtwood One SC', sans-serif;
@@ -61,7 +61,7 @@ header {
 	z-index:1;
 	transition: background .3s;
 	h1 {
-		background:$black;
+		background:$blue;
 		color:$white;
 		padding: $button-padding-vertical $button-padding-horizontal;
 		font-size:$size-5;
@@ -74,7 +74,7 @@ header {
 			@include strong-type();
 			display:block;
 			margin:10px 0 9px 1.5rem;
-			color:$black;
+			color:$blue;
 			transition: color .3s;
 		}
 	}
@@ -96,7 +96,7 @@ header {
 		margin-bottom:0;
 		height:43px;
 		width:43px;
-		background:$black;
+		background:$blue;
 		span {
 			height:2px;
 			background:$white;
@@ -114,7 +114,7 @@ header {
 	  position: fixed;
 	  top: 0;
 	  width: 100%;
-	  background:$black;
+	  background:$blue;
 
 	  @include desktop {
 	  	h1 {
@@ -163,7 +163,7 @@ section#intro {
 		}
 		.icon {
 			transform:rotate(90deg);
-			background:$black;
+			background:$blue;
 			border-radius:50%;
 			i {
 				padding-left:3px;
@@ -187,7 +187,7 @@ section#intro {
 }
 
 section#episodes {
-	background:$black;
+	background:$blue;
 	h2 {
 		color:$white;
 		margin-bottom:$gap/4;
@@ -202,7 +202,7 @@ section#episodes {
 		.count {
 			display:block;
 			color:$white;
-			background:$gray;
+			background:$pink;
 			font-weight:$weight-bold;
 			font-size:$size-3;
 			border-radius:50%;
@@ -240,7 +240,7 @@ section#episodes {
 
 #subscribe {
 	a {
-		color:$black;
+		color:$blue;
 		text-decoration:underline;
 		transition: opacity .3s;
 		&:hover {
@@ -256,13 +256,13 @@ section#episodes {
 section#zine {
 
 	.box {
-		background: $gray-light;
+		background: $pink-light;
 		height:100%;
 		width:100%;
 
 		h2 {
 			color:$white;
-			background:$black;
+			background:$blue;
 			padding: $button-padding-vertical $button-padding-horizontal;
 			margin-left:-$box-padding;
 		}
@@ -294,17 +294,17 @@ section#events {
 	.box {
 		color:$white;
 		p a { color:$white; text-decoration: underline; }
-		background: $black;
+		background: $blue;
 
 		h2 {
-			color:$black;
-			background:$gray;
+			color:$blue;
+			background:$pink;
 			padding: $button-padding-vertical $button-padding-horizontal;
 			margin-left:-$box-padding;
 		}
 
 		.event {
-			border-top: 2px solid $gray;
+			border-top: 2px solid $pink;
 			padding: $gap/8 0 $gap/4;
 			h3 {
 				font-family: $family-secondary;
@@ -316,7 +316,7 @@ section#events {
 }
 
 section#survey {
-	background:$gray;
+	background:$pink;
 
 	.box {
 		padding:30px;
