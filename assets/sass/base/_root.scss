@@ -72,6 +72,7 @@ header {
 	nav {
 		a {
 			@include strong-type();
+			text-transform: none;
 			display:block;
 			margin:10px 0 9px 1.5rem;
 			color:$blue;
