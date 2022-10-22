@@ -28,7 +28,7 @@ plugins:
 title:          "À l'écoute du territoire"
 email:          ecouter.le.territoire@gmail.com
 description:    "À l'écoute du territoire est une émission, réalisée par Renaud Chicoine-McKenzie et Paul Fontaine, de longs reportages sur les voix, les vies et les défis du territoire québécois."
-subtitle:       "A podcast about saving your podcast."
+subtitle:       "De longs reportages immersifs et humains"
 url:            https://ecouter-le-territoire.github.io/
 language:       fr-ca
 author:         Renaud Chicoine-McKenzie et Paul Fontaine
