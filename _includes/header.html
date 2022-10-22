@@ -6,7 +6,11 @@
 		<a href="{{ base }}/pages/about.html">À propos</a>
 		{% if site.data.content.episodes %}<a href="{{ base }}/#podcast">Podcast</a>{% endif %}
 		<a href="{{ base }}/#zine">Dans les coulisses</a>
-		<a class="preview" href="{{ site.data.content.cism_link }}" target="_blank"><img src="{{base}}/assets/images/CISM_Logo.png" alt="CISM" height: 100% widht: auto>
+	    	<a href="{{ site.data.content.cism_link }}" target="_blank"><meta name="twitter:card" content="icone de CISM redirige vers la page de l'émission">
+			<span class="icon">
+				<img src="{{base}}/assets/images/CISM_Logo.png" alt="CISM">
+			</span>
+		</a>
     </div>
     <a role="button" class="navbar-burger is-hidden-desktop" data-target="navMenu" aria-label="menu" aria-expanded="false">
       <span aria-hidden="true"></span>
