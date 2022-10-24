@@ -10,15 +10,15 @@ Cette semaine, « Le ring de Limoilou ». Alors que les ligue de luttes indépen
 
 ## Partie 1 : La lutte est un spectacle
 
-*Mesdames et messieurs...*
+ANIMATEUR : *Mesdames et messieurs...*
 
 La lutte n’est pas qu’un sport... c’est d’abord un spectacle.
 
-ANNONCEUR : *Bienvenue chez vous. Bienvenue chez nous. Bienvenue au stade Canac!*
+ANIMATEUR : *Bienvenue chez vous. Bienvenue chez nous. Bienvenue au stade Canac!*
 
 Un spectacle de l’excès et de l’exagération. Dans le ring, le Bien et le Mal, sous les traits des lutteurs et lutteuses, s’affrontent dans des combats dignes des plus grandes épopées mythologiques. La foule, éprise de passion et d’exaltation, assiste au théâtre de la Justice et de l’Injustice.
 
-ANNONCEUR : *Le plus gros show de lutte de l'année est de retour!*
+ANIAMTEUR : *Le plus gros show de lutte de l'année est de retour!*
 
 La lutte met en scène, sans flafla superflu, des valeurs morales. C’est un jeu d’opposition. Qui, entre le loyal et le perfide, entre le massif et le chétif, entre le joli et l’affreux, qui aura le dessus sur son adversaire?
 
