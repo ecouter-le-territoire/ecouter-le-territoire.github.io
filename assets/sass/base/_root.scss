@@ -43,6 +43,8 @@ main {
 p {
 	font-family: $family-secondary;
 	color: $blue;
+	text-align: justify;
+	text-justify: inter-word;
 }
 
 .button {
