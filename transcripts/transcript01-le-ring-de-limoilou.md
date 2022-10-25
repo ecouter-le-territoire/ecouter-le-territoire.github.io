@@ -18,7 +18,7 @@ ANIMATEUR : *Bienvenue chez vous. Bienvenue chez nous. Bienvenue au stade Canac!
 
 Un spectacle de l’excès et de l’exagération. Dans le ring, le Bien et le Mal, sous les traits des lutteurs et lutteuses, s’affrontent dans des combats dignes des plus grandes épopées mythologiques. La foule, éprise de passion et d’exaltation, assiste au théâtre de la Justice et de l’Injustice.
 
-ANIAMTEUR : *Le plus gros show de lutte de l'année est de retour!*
+ANIMATEUR : *Le plus gros show de lutte de l'année est de retour!*
 
 La lutte met en scène, sans flafla superflu, des valeurs morales. C’est un jeu d’opposition. Qui, entre le loyal et le perfide, entre le massif et le chétif, entre le joli et l’affreux, qui aura le dessus sur son adversaire?
 
@@ -30,9 +30,9 @@ Mais tout cela peut être dit en toute généralité du catch français, de la l
 
 Pourtant, à Québec, dans un quartier nommé Limoilou, la North Shore Pro Wrestling semble se démarquer des autres promotions de lutte. Depuis 14 ans, la NSPW divertit les habitants du coin et s’est enraciné dans le quartier. Quelles sont les particularités de cette ligue de lutte, de ses lutteurs et de sa foule? Et que recèlent les lieux où l’on combat?
 
-*Bruit de cloche de lutte*
+[Bruit de cloche de lutte]
 
-## Partie 2 : Le Golden Opportunity XII
+### Partie 2 : Le Golden Opportunity XII
 
 À Québec, aux abords de la rivière Saint-Charles, frontière naturelle des quartiers Limoilou et Saint-Roch, se trouve le stade Canac. Ce bâtiment patrimonial, construit en 1938, est le domicile du club de baseball professionnel Les Capitales de Québec. Mais le 18 juin 2022, un ring s’élève là où se trouve le monticule des lanceurs. Car en ce soir pluvieux de juin, un spectacle d’un tout autre genre se prépare : le Golden Opportunity XII organisé par la NSPW.
 
@@ -54,7 +54,7 @@ MICHEL PLANTE : *Un des gros funs que j’ai, et je pense que la foule aussi le 
 
 *Des fois, on finit un combat pis le monde réagisse à moitié ou de quoi... on est déçu des fois de pas réussir à ramener ce que nous on avait réussi à imaginer. Raconter une histoire et avoir le monde... regarder le monde en première rangée pis de les voir engager dans notre histoire, dans notre combat, c’est vraiment ça qui m’allume.*
 
-## Partie 3 : La mythologie de la lutte
+### Partie 3 : La mythologie de la lutte
 
 [MUSIQUE]
 
@@ -92,7 +92,7 @@ En 1975, année du dépôt de son mémoire, alors que le mouvement indépendanti
 
 Cette analyse de Pierre Falardeau est inscrite dans le contexte socio-politique des années 1970. Aujourd’hui, dans la foulée du mouvement MeToo, le défunt cinéaste, connu pour ses dénonciations incendiaires, s’accorderait probablement avec certains spectateurs et spectatrices qui voient dans le combat de Loue contre le lutteur Pee Wee et l’arbitre Michael Style un discours d’émancipation féminine et de lutte contre le patriarcat.
 
-## Partie 4 : L'histoire de la lutte au Québec
+### Partie 4 : L'histoire de la lutte au Québec
 
 Le Québec entretient une longue tradition avec la lutte. Dès la fin du 19e siècle, des spectacles amateurs ont lieu un peu partout dans la province. Mais c’est réellement au cours du 20e siècle que la lutte gagne en popularité. L’analyste de lutte à TVA et auteur de plusieurs livres sur le sujet, Patric Laprade, surnommé l’historien de la lutte, évoque trois âges d’or au Québec.
 
@@ -120,6 +120,78 @@ Pour Patric Laprade, le succès de la NSPW tient en partie à la qualité de ses
 
 PATRIC LAPRADE : *« J'allais là souvent à Québec dans les années 2015-2016, c'est là au milieu des années 2010 qu'on a vu un changement. Moi le changement que j'ai noté c'est non seulement les foules augmentaient, mais ce qui constituait les foules, le démographique de la foule avait changé. On voyait de plus en plus de femmes, de filles qui venaient là en gang ou qui accompagnaient leurs copains et ça devenait un peu comme une sortie. Au lieu d'aller voir un spectacle d'humour, au lieu d'aller au théâtre, ben on allait voir la lutte... On ne se le cachera pas, sur le circuit indépendant, le démographique que tu attires c'est des hommes, des jeunes de 18 à 40 ans mettons. À partir du moment que t'arrives à attirer la gente féminine ou que le gars amène sa blonde à la lutte, ben là ça veut dire que t'as pogné quelque chose, ça veut dire que t'as une coche de plus. Et ce que la NSPW a réussi à faire par le talent qu'ils avaient, par les lutteurs et les lutteuses qu'ils avaient, par les histoires qu'ils ont créées, les scénarios, et par... »*
 
-## Partie 5 : Les lieux de la lutte
+### Partie 5 : Les lieux de la lutte
 
 [MUSIQUE]
+
+*« Le vrai catch »,* écrit Roland Barthes, *« Le vrai catch, dit improprement catch d’amateurs, se joue dans les salles de seconde zone, où le public s’accorde spontanément à la nature spectaculaire du combat, comme fait le public d’un cinéma de banlieue. »*
+
+À Limoilou, cette salle de seconde zone se trouve au centre Horizon.
+
+Érigé en 1948 dans le quartier populaire du Vieux-Limoilou, le centre Horizon est l’un des plus anciens lieux où se déroule la vie communautaire de la vielle capitale.
+
+Pour le passant qui erre près du centre Horizon, il ne fait aucun doute qu’il se trouve dans un quartier au passé prolétaire.
+
+Car à l’est, le marcheur aperçoit le chemin de fer du Canadien National par-delà lequel se dressent les cheminées de l’incinérateur municipal et celle de la papeterie White Birch.
+
+Au sud, il distingue les tronçons bétonnés de l’autoroute aérienne Dufferin-Montmorency.
+
+Puis à l’ouest, le promeneur voit des rues exiguës, bordées de triplex et quadruplex, eux-mêmes revêtus de briques rouges, oranges et jaunes, toutes les teintes d’ocre typiques de ce quartier densément peuplé.
+
+Enfin au nord, le regard du passant errant s’arrête sur l’église Saint-Charles-de-Limoilou, qui héberge aujourd’hui une troupe de cirque.
+
+C’est donc dans ce décor éminemment populaire que la NSPW a élu, naturellement, son domicile.
+
+[MUSIQUE]
+
+Au centre Horizon, au milieu d’une large salle aux murs couleur saumon, il se dresse un ring. Une estrade surélevée pour que tous et toutes puissent apprécier les combats. Trois cordes et quatre coins : une géométrie rudimentaire qui délimite l’arène et sur laquelle les lutteurs n’hésitent pas à se hisser pour assener une violente descente du coude à leur adversaire allongé au tapis.
+
+Pour la première fois en 14 ans d’existence, la NSPW tiendra la moitié de ses combats au centre Horizon à Limoilou et l’autre moitié au théâtre Le Diamant, situé en Haute-Ville et propriété du metteur en scène et acteur Robert Lepage.
+
+Pour le promoteur et fondateur de la NSPW, Steve Boutet, les galas au Diamant permettent de faire connaître la NSPW au plus grand nombre. 
+
+STEVE BOUTET : *« Moi je me suis fait dire par une madame... Le premier gala au Diamant, la madame est arrivée en robe de soirée. Elle s’en allait comme voir du théâtre, mais finalement elle a aimé ça. Pis on l’a revue ici! Pis elle m’a dit "moi j’ai entendu parler du centre Horizon comme quoi c’est une jungle comparé au Diamant", elle a plus de plaisir ici qu’au Diamant. Elle dit "le monde sont déchaîné". Au Diamant, le monde sont gênés. Ils connaissent pas tant ça, mais ils embarquent beaucoup. »*
+
+Même si la moitié de la saison 2022-2023 se déroulera au théâtre Le Diamant, seuls les matchs ayant lieu au centre Horizon contribueront à l’évolution du scénario. En Haute-Ville, aucun titre ne sera mis en jeu, aucune alliance ne sera formée et aucune trahison ne sera machinée. Tout cela est réservé pour la foule de Limoilou.
+
+STEVE BOUTET : *« C’est deux publics différents parce qu’au Diamant il y a beaucoup de gens qui viennent voir qu’est-ce que Robert Lepage aime dans ça. C’est de la curiosité pure et simple. Ici à Québec, au centre Horizon, c’est 100% lutte. Le monde, c’est des fans de lutte, des amateurs de lutte pis ils sont critiques aussi. Si tu manques une prise ici, le monde vont te le dire dans la foule. Mais tandis qu’au Diamant, le monde sont plus là pour voir le côté théâtral de ça. »*
+
+Même si la NSPW déploie ses ailes sur d’autres territoires, elle demeure solidement ancrée dans Limoilou. Par exemple, pour annoncer les galas à venir, Steve Boutet et son équipe recourent à des stratégies de communication à l’échelle d’un quartier.
+
+STEVE BOUTET : *« Avec Vincent, un de nos bénévoles, on fait des runs de poster à chaque mois, pis ça marche encore. Ben souvent on rentre dans un commerce, pis le monde sont content de nous voir pis ils nous demandent "c’est quelle date le prochain gala?" »*
+
+Dans les rues de Limoilou, sur des billots de bois devenus des poteaux électriques, des affiches annoncent le 400e gala de la NSPW. Rendez-vous le 17 septembre à 20h au centre Horizon.
+
+[Bruit de cloche de lutte]
+
+### Partie 6 : L'arrière du rideau
+
+[Foule qui applaudit]
+
+Assister à un gala de lutte depuis l’arrière du rideau a un je-ne-sais-quoi de singulier. Dans les coulisses, les masques tombent, les rôles sont des illusions et les symboles sont dépourvus de sens. Les pugilistes, qui un instant auparavant s’envoyaient au tapis, tous ennemis qu’ils étaient, se font maintenant de franches accolades.
+
+Celui qui s’aventurerait dans l’arrière-scène assisterait à un spectacle d’un tout autre ordre que celui qui se joue dans le ring. Il y verrait une sincère fraternité ralliant les lutteurs et les lutteuses autour d’un même objectif : offrir le meilleur spectacle et les plus grandes émotions.
+
+[MUSIQUE]
+
+Alors que la cloche finale a retenti depuis un bon moment et que la foule a quitté le centre Horizon, les lutteurs et les lutteuses plient leurs bagages. Dans un petit sac turquoise, Michel Plante range son costume étincelant et sa ceinture de Champion Junior Heavyweight. Dans cette valise anodine se trouve maintenant tout l’attirail nécessaire à l’incarnation du héros et Michel Plante est redevenu le simple homme qu’il est au quotidien.
+
+Quitter le centre Horizon et se départir de son déguisement : autant de gestes discrets qui reflètent *« le pouvoir de transmutation du Spectacle »,* pour reprendre les mots de Roland Barthes. Un parallèle tranchant entre le pas modeste de l’acteur-athlète qui quitte le ring et le geste excessif du lutteur qui anime la foule. Et entre les deux, un monde.
+
+Le premier est anonyme, le second est la clef pour distinguer le Bien du Mal.
+
+[MUSIQUE THÈME]
+
+### Épilogue
+
+C’était « Le ring de Limoilou », un reportage de Paul Fontaine avec l'assistance de Renaud Chicoine-McKenzie.
+
+Nous tenons à remercier notre mentore de la Canadian Association of Journalists, Tracey Lindeman.
+
+Notre musique originale est composée par Hugo Mayrand.
+
+Cette émission est co-réalisée par moi-même, Renaud Chicoine-McKenzie, et Paul Fontaine.
+
+Nous remercions, pour leur soutien financier, la Fédération professionnelle des journalistes du Québec et l’Association des étudiants et étudiantes de la Faculté de l’éducation permanente de l’Université de Montréal.
+
+Nous vous donnons rendez-vous samedi prochain à 8h sur les ondes de CISM 89,3 La Marge pour être, de nouveau, « À l’écoute du territoire ».
