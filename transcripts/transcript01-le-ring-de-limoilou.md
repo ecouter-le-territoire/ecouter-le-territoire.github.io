@@ -8,7 +8,7 @@ Un territoire de sous-sols d’église, de centres communautaires et de salles d
 
 Cette semaine, « Le ring de Limoilou ». Alors que les ligue de luttes indépendantes font rarement long feu, à Québec, dans le quartier populaire de Limoilou, la North Shore Pro Wrestling, la NSPW, fête ses 14 ans. À quoi doit-elle sa longévité? Quelle est la nature de la relation singulière entre les spectateurs et les lutteurs? Et comment cette relation évolue-t-elle en fonction du lieu où l’on combat? Un reportage de Paul Fontaine.
 
-## Partie 1 : La lutte est un spectacle
+### Partie 1 : La lutte est un spectacle
 
 ANIMATEUR : *Mesdames et messieurs...*
 
