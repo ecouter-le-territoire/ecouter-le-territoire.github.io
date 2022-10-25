@@ -189,6 +189,16 @@ section#intro {
 
 section#episodes {
 	background:$blue;
+	font-family: $family-secondary;
+	h1 {
+		color:$blue;
+		margin-bottom:$gap/4;
+		font-size:$size-3;
+		letter-spacing:.66px;
+		@include mobile {
+			font-size: $size-5;
+		}
+	}
 	h2 {
 		color:$white;
 		margin-bottom:$gap/4;
