@@ -45,6 +45,10 @@ p {
 	color: $blue;
 	text-align: justify;
 	text-justify: inter-word;
+	.contributeur {
+		color: $pink;
+		background: $primary;
+	}
 }
 
 .button {
