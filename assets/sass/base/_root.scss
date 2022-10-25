@@ -40,6 +40,11 @@ main {
   flex: 1;
 }
 
+p {
+	font-family: $family-secondary;
+	background-color: $blue;
+}
+
 .button {
 	@include strong-type();
 	&.is-small {
@@ -189,7 +194,6 @@ section#intro {
 
 section#episodes {
 	background:$blue;
-	font-family: $family-secondary;
 	h1 {
 		color:$blue;
 		margin-bottom:$gap/4;
