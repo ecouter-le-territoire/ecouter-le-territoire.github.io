@@ -373,11 +373,11 @@ footer.footer {
 	@include desktop() {
 		padding-top:$gap*2;
 	}
-	.column.realisateur {
+	.content column.realisateur {
     		float: left;
     		width: 50%;
     	}
-	.row.realisateur:after {
+	.content row.realisateur:after {
 	    content: "";
 	    display: table;
 	    clear: both;
