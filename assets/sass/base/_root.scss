@@ -48,15 +48,6 @@ p {
 	.contributeur {
 		background: $primary;
 	}
-	.column {
-    		float: left;
-    		width: 50%;
-    	}
-	.row:after {
-	    content: "";
-	    display: table;
-	    clear: both;
-	}
 }
 
 .button {
@@ -381,5 +372,14 @@ footer.footer {
 	}
 	@include desktop() {
 		padding-top:$gap*2;
+	}
+	.column {
+    		float: left;
+    		width: 50%;
+    	}
+	.row:after {
+	    content: "";
+	    display: table;
+	    clear: both;
 	}
 }
