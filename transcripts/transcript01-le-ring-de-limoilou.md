@@ -60,15 +60,15 @@ MICHEL PLANTE : *Un des gros funs que j’ai, et je pense que la foule aussi le 
 
 La relation entre le lutteur et le public a été mise en valeur par le philosophe et linguiste français Roland Barthes. Dans son essai *Le monde où l’on catche*, tiré de son recueil *Mythologies* publié en 1957, Roland Barthes met en lumière l’ampleur du jeu entre les pugilistes et les spectateurs. Voici ce qu’il écrit :
 
-*« Le public se moque complètement de savoir si le combat est truqué ou non, et il a raison [...] ce qui lui importe, ce n’est pas ce qu’il croit, c’est ce qu’il voit. »*
+« Le public se moque complètement de savoir si le combat est truqué ou non, et il a raison [...] ce qui lui importe, ce n’est pas ce qu’il croit, c’est ce qu’il voit. »
 
-Et pour être bien perçu par le spectateur, la lutte doit être limpide. C’est pourquoi, pour Roland Barthes, *« la vertu du catch, c’est d’être un spectacle excessif. »* C’est dans l’excès de son geste que le lutteur parvient à mobiliser la foule. C’est dans l’excès de son geste qu’il incarne le Bien ou le Mal, la Justice ou l’Injustice.
+Et pour être bien perçu par le spectateur, la lutte doit être limpide. C’est pourquoi, pour Roland Barthes, « la vertu du catch, c’est d’être un spectacle excessif. » C’est dans l’excès de son geste que le lutteur parvient à mobiliser la foule. C’est dans l’excès de son geste qu’il incarne le Bien ou le Mal, la Justice ou l’Injustice.
 
-*« Le catch propose des gestes excessifs »,* écrit Roland Barthes. *« Dans le catch, un homme à terre y est exagérément, emplissant jusqu’au bout la vue des spectateurs, du spectacle intolérable de son impuissance »,* illustre-t-il.
+« Le catch propose des gestes excessifs », écrit Roland Barthes. « Dans le catch, un homme à terre y est exagérément, emplissant jusqu’au bout la vue des spectateurs, du spectacle intolérable de son impuissance », illustre-t-il.
 
 L’impuissance du lutteur, sa douleur et sa défaite sont théâtralement amplifiées, tout comme il en est de son retour en force, puis de sa revanche. Plus le contraste entre sa souffrance et sa jouissance est fort et plus la notion de Justice devient intelligible pour le public.
 
-*« Mais ce que le catch est surtout chargé de mimer,* écrit Roland Barthes, *mais ce que le catch est surtout chargé de mimer, c’est un concept purement moral : la justice. L’idée de paiement est essentielle au catch et le "Fais-le souffrir" de la foule signifie avant tout un "Fais-le payer". Plus l’action du "salaud" est basse, plus le coup qui lui est justement rendu met le public en joie. »*
+« Mais ce que le catch est surtout chargé de mimer, écrit Roland Barthes, mais ce que le catch est surtout chargé de mimer, c’est un concept purement moral : la justice. L’idée de paiement est essentielle au catch et le "Fais-le souffrir" de la foule signifie avant tout un "Fais-le payer". Plus l’action du "salaud" est basse, plus le coup qui lui est justement rendu met le public en joie. »
 
 [MUSIQUE]
 
@@ -82,13 +82,13 @@ SPECTATEUR 1 : *On sait pas, on sait pas s'il était vendu, mais ça paraissait 
 
 SPECTATEUR 2 : *Je pense qu’il y a du sexisme à la base. Moi, c’est ce que je pense. L’industrie est très sexiste, faque c’est sûr qu’il était vendu contre Loue.*
 
-La lutte, en tant que miroir de la société, porte donc en elle les germes d’un discours critique sur l’état du monde actuel. Dans *La lutte*, son mémoire de maîtrise en anthropologie, le cinéaste Pierre Falardeau écrit qu’en tant que rituel, *« la lutte rend manifeste, à travers divers symboles, un milieu social précis à un moment de l’histoire »*. Au public, donc, de récupérer ces symboles et de les interpréter selon sa perception.
+La lutte, en tant que miroir de la société, porte donc en elle les germes d’un discours critique sur l’état du monde actuel. Dans *La lutte*, son mémoire de maîtrise en anthropologie, le cinéaste Pierre Falardeau écrit qu’en tant que rituel, « la lutte rend manifeste, à travers divers symboles, un milieu social précis à un moment de l’histoire ». Au public, donc, de récupérer ces symboles et de les interpréter selon sa perception.
 
-L’étudiant qu’était alors Pierre Falardeau nuance toutefois l’ampleur de la fonction discursive de la lutte, qui permet à la foule d’en extraire un propos socio-politique et engagé. Dans son mémoire, il soutient que la lutte est *« un rituel qui permet de régler au niveau de l’inconscient, mais au niveau de l’inconscient seulement, les conflits vécus quotidiennement dans la société. »*
+L’étudiant qu’était alors Pierre Falardeau nuance toutefois l’ampleur de la fonction discursive de la lutte, qui permet à la foule d’en extraire un propos socio-politique et engagé. Dans son mémoire, il soutient que la lutte est « un rituel qui permet de régler au niveau de l’inconscient, mais au niveau de l’inconscient seulement, les conflits vécus quotidiennement dans la société. »
 
 [MUSIQUE]
 
-En 1975, année du dépôt de son mémoire, alors que le mouvement indépendantiste et de libération nationale gagne en ferveur, Pierre Falardeau ajoute, avec son ton pamphlétaire si caractéristique, que ce spectacle populaire est *« le miroir d’un petit peuple écrasé, exploité, vaincu. Un petit peuple vaincu qui se cherche des victoires. Un petit peuple écrasé qui se cherche des héros. Un petit peuple exploité qui cherche des raisons d’espérer. »*
+En 1975, année du dépôt de son mémoire, alors que le mouvement indépendantiste et de libération nationale gagne en ferveur, Pierre Falardeau ajoute, avec son ton pamphlétaire si caractéristique, que ce spectacle populaire est « le miroir d’un petit peuple écrasé, exploité, vaincu. Un petit peuple vaincu qui se cherche des victoires. Un petit peuple écrasé qui se cherche des héros. Un petit peuple exploité qui cherche des raisons d’espérer. »
 
 Cette analyse de Pierre Falardeau est inscrite dans le contexte socio-politique des années 1970. Aujourd’hui, dans la foulée du mouvement MeToo, le défunt cinéaste, connu pour ses dénonciations incendiaires, s’accorderait probablement avec certains spectateurs et spectatrices qui voient dans le combat de Loue contre le lutteur Pee Wee et l’arbitre Michael Style un discours d’émancipation féminine et de lutte contre le patriarcat.
 
@@ -124,7 +124,7 @@ PATRIC LAPRADE : *J'allais là souvent à Québec dans les années 2015-2016, c'
 
 [MUSIQUE]
 
-*« Le vrai catch »,* écrit Roland Barthes, *« Le vrai catch, dit improprement catch d’amateurs, se joue dans les salles de seconde zone, où le public s’accorde spontanément à la nature spectaculaire du combat, comme fait le public d’un cinéma de banlieue. »*
+« Le vrai catch », écrit Roland Barthes, « Le vrai catch, dit improprement catch d’amateurs, se joue dans les salles de seconde zone, où le public s’accorde spontanément à la nature spectaculaire du combat, comme fait le public d’un cinéma de banlieue. »
 
 À Limoilou, cette salle de seconde zone se trouve au centre Horizon.
 
@@ -176,7 +176,7 @@ Celui qui s’aventurerait dans l’arrière-scène assisterait à un spectacle 
 
 Alors que la cloche finale a retenti depuis un bon moment et que la foule a quitté le centre Horizon, les lutteurs et les lutteuses plient leurs bagages. Dans un petit sac turquoise, Michel Plante range son costume étincelant et sa ceinture de Champion Junior Heavyweight. Dans cette valise anodine se trouve maintenant tout l’attirail nécessaire à l’incarnation du héros et Michel Plante est redevenu le simple homme qu’il est au quotidien.
 
-Quitter le centre Horizon et se départir de son déguisement : autant de gestes discrets qui reflètent *« le pouvoir de transmutation du Spectacle »,* pour reprendre les mots de Roland Barthes. Un parallèle tranchant entre le pas modeste de l’acteur-athlète qui quitte le ring et le geste excessif du lutteur qui anime la foule. Et entre les deux, un monde.
+Quitter le centre Horizon et se départir de son déguisement : autant de gestes discrets qui reflètent « le pouvoir de transmutation du Spectacle », pour reprendre les mots de Roland Barthes. Un parallèle tranchant entre le pas modeste de l’acteur-athlète qui quitte le ring et le geste excessif du lutteur qui anime la foule. Et entre les deux, un monde.
 
 Le premier est anonyme, le second est la clef pour distinguer le Bien du Mal.
 
