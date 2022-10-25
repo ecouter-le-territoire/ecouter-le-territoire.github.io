@@ -58,7 +58,7 @@ layout: default
 				</div>
 				<div class="column">
 					<h3>{{ episode.name }}</h3>
-					<a href="{{ episode.download_link }}">Télécharger l'épisode</a>{% if episode.transcript_file %}&nbsp;&nbsp;|&nbsp;&nbsp;<a data-modal="#transcript-{{ forloop.index }}" href="#">Lire la transcription</a>{% endif %}{% if episode.coulisses_link %}&nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ episode.coulisses_link }}" target="_blank">Coulisses</a>{% endif %}
+					<a href="{{ episode.download_link }}">Télécharger</a>{% if episode.transcript_file %}&nbsp;&nbsp;|&nbsp;&nbsp;<a data-modal="#transcript-{{ forloop.index }}" href="#">Transcription</a>{% endif %}{% if episode.coulisses_link %}&nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ episode.coulisses_link }}" target="_blank">Coulisses</a>{% endif %}
 				</div>
 			</div>
 
