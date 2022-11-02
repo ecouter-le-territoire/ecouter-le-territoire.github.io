@@ -180,9 +180,9 @@ Quitter le centre Horizon et se départir de son déguisement : autant de gestes
 
 Le premier est anonyme, le second est la clef pour distinguer le Bien du Mal.
 
-[Musique thème]
-
 ### Épilogue
+
+[Musique thème]
 
 C’était « Le ring de Limoilou », un reportage de Paul Fontaine avec l'assistance de Renaud Chicoine-McKenzie.
 
