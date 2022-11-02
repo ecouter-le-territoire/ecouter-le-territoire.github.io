@@ -20,11 +20,11 @@ Ce qui les charme, au pied des deux merveilles naturelles que sont le Rocher Per
 
 Pour une ville de 3 000 habitants à l’année, ces milliers de passants chaque jour sont une charge immense. Toilettes, lavabos, trottoirs, les sentiers, les parcs, les stationnements, autant de services que la Ville peine à entretenir et qui pèsent lourd sur les finances des résidents du village.
 
-Cet équilibre, il est précaire. Pour cette raison, la MRC du Rocher-Percé a décidé au printemps dernier d’instaurer une redevance touristique...
+Cet équilibre, il est précaire. Pour cette raison, la MRC du Rocher-Percé a décidé au printemps dernier d’instaurer une redevance touristique
 
 Cathy Poirier : *Bonsoir dans la salle, à la télévision. Bienvenue à la séance ordinaire du conseil municipal du 7 juin 2022…*
 
-... une sorte de taxe d’un dollar pour certains achats faits par les visiteurs. L’idée : faire payer au touriste une partie des frais qu’engendre sa présence.
+Une sorte de taxe d’un dollar pour certains achats faits par les visiteurs. L’idée : faire payer au touriste une partie des frais qu’engendre sa présence.
 
 Un problème. Les citoyens sont divisés et certains d’entre eux ne sont pas très contents. Pas contents du tout en fait.
 
@@ -113,7 +113,7 @@ Est-ce vraiment cet esprit antitouristique qui anime le discours tenu au début 
 
 Pour en être certain, il fallait aller à la rencontre d’un de ceux qui faisaient partie des opposants à la redevance touristique, quelqu’un qui pourrait, à sa façon, donner un sens au chahut du 7 juin dernier.
 
-### Partie 3 : [???]
+### Partie 3 : Antitourisme et populisme
 
 Afin de constater et d’évaluer la présence d’un discours antitouristique à Percé, je suis donc allé parler à quelqu'un ayant fait campagne sur la redevance touristique lors de la dernière élection municipale de Percé et qui est passé proche de déloger la mairesse en poste, Cathy Poirier. Il habite sur le deuxième rang à Cap-d’Espoir, dans les terres d’un village à quelques minutes de Percé même.
 
