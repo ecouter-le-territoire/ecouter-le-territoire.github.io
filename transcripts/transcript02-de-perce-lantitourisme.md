@@ -22,21 +22,21 @@ Pour une ville de 3 000 habitants à l’année, ces milliers de passants chaque
 
 Cet équilibre, il est précaire. Pour cette raison, la MRC du Rocher-Percé a décidé au printemps dernier d’instaurer une redevance touristique...
 
-CATHY POIRIER : *Bonsoir dans la salle, à la télévision. Bienvenue à la séance ordinaire du conseil municipal du 7 juin 2022…*
+Cathy Poirier : *Bonsoir dans la salle, à la télévision. Bienvenue à la séance ordinaire du conseil municipal du 7 juin 2022…*
 
 ... une sorte de taxe d’un dollar pour certains achats faits par les visiteurs. L’idée : faire payer au touriste une partie des frais qu’engendre sa présence.
 
 Un problème. Les citoyens sont divisés et certains d’entre eux ne sont pas très contents. Pas contents du tout en fait.
 
-CITOYEN : *Boouh... Est-ce qu’on tombe dans une dictature?*
+Citoyen 1 : *Boouh... Est-ce qu’on tombe dans une dictature?*
 
 Ce sont des extraits de ce qui s’est dit, et parfois crié, 7 juin dernier à Percé, lors d’un conseil municipal. Un groupe de citoyens était venu y confronter la mairesse de Percé, Cathy Poirier...
 
-CATHY POIRIER : *Pourquoi, pourquoi? Pourquoi vous vous obstinez à vous battre contre nous qui voulons seulement vous aider?*
+Cathy Poirier : *Pourquoi, pourquoi? Pourquoi vous vous obstinez à vous battre contre nous qui voulons seulement vous aider?*
 
 Et où s’exposait une nette incompréhension entre les deux parties.
 
-CITOYEN : *Vous dites que vous voulez nous aider, mais c’est une agression!*
+Citoyen 2 : *Vous dites que vous voulez nous aider, mais c’est une agression!*
 
 Une tempête dans un verre d’eau?
  
@@ -48,11 +48,11 @@ Mais il faut mentionner ici que la redevance de Percé, elle, fait face à des c
 
 Quoi qu’il en soit, son but est relativement simple: que le tourisme ne soit pas un coût pour un citoyen qui n’en profite pas.
 
-DOMINIC LAPOINTE : *S’il y a une industrie qui est très habile à capter ce dollar-loisir-là, la captation sociale est beaucoup moins habile...*
+Dominic Lapointe : *S’il y a une industrie qui est très habile à capter ce dollar-loisir-là, la captation sociale est beaucoup moins habile...*
 
 Dominic Lapointe, professeur au département d’études urbaines et touristiques de l’Université du Québec à Montréal.
 
-DOMINIC LAPOINTE : *Cette idée de demander une redevance touristique, ça s’inscrit dans cette logique de dire aux touristes « il faut que vous payer plus pour l'entretien associé aux biens publics que vous consommez. »*
+Dominic Lapointe : *Cette idée de demander une redevance touristique, ça s’inscrit dans cette logique de dire aux touristes « il faut que vous payer plus pour l'entretien associé aux biens publics que vous consommez. »*
 
 Environ 800 000$ sont actuellement payés par la ville pour l’entretien des infrastructures touristiques. La redevance, elle promet de générer des revenus de 1 à 1,5 M$, donc d’alléger le fardeau fiscal des citoyens.
 
@@ -74,8 +74,10 @@ Avec l’industrialisation et le 20e siècle apparaissent deux conditions néces
 
 Au Québec, c’est seulement en 1946 qu’une loi oblige les employeurs à donner des vacances rémunérées aux travailleurs de la province. L'antitourisme apparaîtra pratiquement simultanément, comme en atteste dès 1959 un court film canadien...
 
-Tourist Go Home :
-*Knock Knock...*
-*- What do you want?*
-*- They tell me you buy film. I have a film to sell. A tourist film. An uncut tourist film.*
+Tourist Go Home :  
+*Knock Knock...*  
+*- What do you want?*  
+*- They tell me you buy film. I have a film to sell. A tourist film. An uncut tourist film.*  
 *- Come inside!*
+
+*Tourist Go Home*, réalisé par Stanley Jackson et Ronald Weyman, met en scène une cellule antitouriste, affairée à ternir l’image du Canada aux yeux des étrangers... afin de les en tenir loin.
