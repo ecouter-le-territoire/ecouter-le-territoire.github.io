@@ -176,7 +176,7 @@ Cathy Poirier : *Ça a été rough, ça a été rough, ça a été rough...C’e
 
 Elle aussi est arrivée à Percé à une autre époque.
 
-Cathy Poirier : *Moi je suis arrivé ici en 1997. Je me suis installé à Percé en 2000.J’avais 25 ans et je rajeunissais l’âge du village.*
+Cathy Poirier : *Moi je suis arrivé ici en 1997. Je me suis installé à Percé en 2000. J’avais 25 ans et je rajeunissais l’âge du village.*
 
 Et a été élue à la mairie une première fois à la mairie en 2017.
 
