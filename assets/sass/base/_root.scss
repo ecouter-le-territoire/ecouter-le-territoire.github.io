@@ -374,3 +374,26 @@ footer.footer {
 		padding-top:$gap*2;
 	}
 }
+
+.vignettecoulisses {
+	.image {
+		border: 1px solid black;
+		padding: 1em;
+	}
+	.titre {
+		background: black;
+		margin: 1em;
+		font-family: $family-secondary;
+		color: white;
+		font-size: $size-5;
+	}
+	.carrenumero {
+		color: black;
+		.p {
+			color: white;
+			fontsize: $size-4;
+			font-family: $family-primary;
+			text-align: center;
+		}
+	}
+}
