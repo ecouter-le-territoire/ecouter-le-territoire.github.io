@@ -19,8 +19,8 @@ episodes:
 #    coulisses_link:
     transcript_file: transcript01-le-ring-de-limoilou
   - name: "Ep2 : De Percé, l'antitourisme"
-    embed_link: https://archive.org/embed/aledt-2022-10-01-ep-2-de-perce-lantitourisme-podcast
-    download_link: https://archive.org/download/aledt-2022-10-01-ep-2-de-perce-lantitourisme-podcast/ALEDT_2022-10-01_EP2-DePerceLAntitourisme_Podcast.mp3
+    embed_link: https://archive.org/embed/aledt-2022-10-01-ep-2-de-perce-lantitourisme-podcast_202211
+    download_link: https://archive.org/download/aledt-2022-10-01-ep-2-de-perce-lantitourisme-podcast_202211/ALEDT_2022-10-01_EP2-DePerceLAntitourisme_Podcast.mp3
 #    coulisses_link:
     transcript_file: transcript02-de-perce-lantitourisme
   - name: "Ep3 : Le myrique, l'allié des dunes"
@@ -28,6 +28,11 @@ episodes:
     download_link: https://archive.org/download/aledt-2022-10-08-ep-3-le-myrique-lallie-des-dunes-podcast/ALEDT_2022-10-08_EP3-LeMyriqueLAllieDesDunes_Podcast.mp3
 #    coulisses_link:
     transcript_file: transcript03-le-myrique-lallie-des-dunes
+    - name: "Ep4 : Un archipel en forme d'hameçon"
+    embed_link: https://archive.org/embed/aledt-2022-10-15-ep-4-un-archipel-en-forme-dhamecon-podcast
+    download_link: https://archive.org/download/aledt-2022-10-15-ep-4-un-archipel-en-forme-dhamecon-podcast/ALEDT_2022-10-15_EP4-UnArchipelEnFormeDHame%C3%A7on_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript04-un-archipel-en-forme-dhamecon
 
 #   - name: Prepare your Files for Archiving
 #     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
