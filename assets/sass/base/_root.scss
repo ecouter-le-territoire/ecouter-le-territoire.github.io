@@ -377,12 +377,12 @@ footer.footer {
 
 .vignettecoulisses {
 	border: 1px solid black;
-	margin: 1em;
+	margin: 1%;
 	background-size: 130%;
 	background-repeat: no-repeat;
 	background-position: center;
-	width: 33%;
-	padding-top: 100%;
+	width: 31%;
+	padding-top: 33%;
 	position: relative;
 	float: left;
 	.titre {
@@ -391,7 +391,7 @@ footer.footer {
 		left: 0;
 		bottom: 0;
 		right: 0;
-		.p {
+		p {
 			width: fit-content;
 			background: black;
 			padding: 0.1em 0.2em;
@@ -409,7 +409,7 @@ footer.footer {
 		position: absolute;
 		left: 0;
 		bottom: 0;
-		.p {
+		p {
 			color: white;
 			fontsize: 2rem;
 			font-family: $family-primary;
