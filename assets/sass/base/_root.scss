@@ -377,22 +377,42 @@ footer.footer {
 
 .vignettecoulisses {
 	border: 1px solid black;
-	padding: 1em;
+	margin: 1em;
+	background-size: 130%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 33%;
+	padding-top: 100%;
+	position: relative;
 	.titre {
-		background: black;
-		margin: 1em;
-		font-family: $family-secondary;
-		color: white;
-		font-size: $size-5;
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		.p {
+			width: fit-content;
+			background: black;
+			padding: 0.1em 0.2em;
+			font-family: $family-secondary;
+			color: white;
+			font-size: $size-5;
+		}
 	}
 	.carrenumero {
 		background-color: black;
 		width: 4em;
 		height: 4em;
+		display: table-cell;
+		vertical-align: middle;
+		position: absolute;
+		left: 0;
+		bottom: 0;
 		.p {
 			color: white;
-			fontsize: $size-4;
+			fontsize: 2rem;
 			font-family: $family-primary;
+			display: block;
 			text-align: center;
 		}
 	}
