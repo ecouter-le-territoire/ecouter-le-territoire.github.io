@@ -376,10 +376,8 @@ footer.footer {
 }
 
 .vignettecoulisses {
-	.image {
-		border: 1px solid black;
-		padding: 1em;
-	}
+	border: 1px solid black;
+	padding: 1em;
 	.titre {
 		background: black;
 		margin: 1em;
@@ -388,7 +386,9 @@ footer.footer {
 		font-size: $size-5;
 	}
 	.carrenumero {
-		color: black;
+		background-color: black;
+		width: 4em;
+		height: 4em;
 		.p {
 			color: white;
 			fontsize: $size-4;
