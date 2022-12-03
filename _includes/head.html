@@ -15,6 +15,7 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta property="og:image" content="https://ecouter-le-territoire.github.io/assets/images/ALEDT_Logo.jpg" />
 
   <link rel="stylesheet" href="{{ base }}/assets/css/main.css">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
