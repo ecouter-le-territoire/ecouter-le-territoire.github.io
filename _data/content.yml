@@ -33,6 +33,36 @@ episodes:
     download_link: https://archive.org/download/aledt-2022-10-15-ep-4-un-archipel-en-forme-dhamecon-podcast/ALEDT_2022-10-15_EP4-UnArchipelEnFormeDHame%C3%A7on_Podcast.mp3
 #    coulisses_link:
     transcript_file: transcript04-un-archipel-en-forme-dhamecon
+  - name: "Ep5 : Le silence après la cantine"
+    embed_link: https://archive.org/embed/aledt-2022-10-22-ep-5-le-silence-apres-la-cantine-podcast
+    download_link: https://archive.org/download/aledt-2022-10-22-ep-5-le-silence-apres-la-cantine-podcast/ALEDT_2022-10-22_EP5-LeSilenceApresLaCantine_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript05-le-silence-apres-la-cantine
+  - name: "Ep6 : L'été naturiste"
+    embed_link: https://archive.org/embed/aledt-2022-10-29-ep-06-l-ete-naturiste-podcast
+    download_link: https://archive.org/download/aledt-2022-10-29-ep-06-l-ete-naturiste-podcast/ALEDT_2022-10-29_EP06-L_%C3%A9t%C3%A9Naturiste_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript06-lete-naturiste
+  - name: "Ep7 : Une ligue pour tous"
+    embed_link: https://archive.org/embed/aledt-2022-11-12-ep-07-une-ligue-pour-tous-podcast
+    download_link: https://archive.org/download/aledt-2022-11-12-ep-07-une-ligue-pour-tous-podcast/ALEDT_2022-11-12_EP07-UneLiguePourTous_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript07-une-ligue-pour-tous
+  - name: "Ep8 : L'avenir incertain de la médecine équine"
+    embed_link: https://archive.org/embed/aledt-2022-11-19-ep-08-lavenir-incertain-de-la-medecine-veterinaire-podcast
+    download_link: https://archive.org/download/aledt-2022-11-19-ep-08-lavenir-incertain-de-la-medecine-veterinaire-podcast/ALEDT_2022-11-19_EP08_LAvenirIncertainDeLaMedecineVeterinaire_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript08-lavenir-incertain-de-la-medecine-equine
+  - name: "Ep9 : Au front écologique, à l'orée des bois"
+    embed_link: https://archive.org/embed/aledt-2022-11-26-ep-09-municipalites-01-podcast
+    download_link: https://archive.org/download/aledt-2022-11-26-ep-09-municipalites-01-podcast/ALEDT_2022-11-26_EP09_Municipalite%CC%81s01_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript09-au-front-ecologique-a-loree-des-bois
+  - name: "Ep10 : L'adaptation de l'Érable"
+    embed_link: https://archive.org/embed/aledt-2022-12-03-ep-10-ladaptation-de-lerable-podcast
+    download_link: https://archive.org/download/aledt-2022-12-03-ep-10-ladaptation-de-lerable-podcast/ALEDT_2022-12-03_EP10-LAdaptationDeLErable_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript10-ladaptation-de-lerable
 
 #   - name: Prepare your Files for Archiving
 #     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
