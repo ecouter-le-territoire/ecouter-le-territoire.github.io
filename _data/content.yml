@@ -63,6 +63,26 @@ episodes:
     download_link: https://archive.org/download/aledt-2022-12-03-ep-10-ladaptation-de-lerable-podcast/ALEDT_2022-12-03_EP10-LAdaptationDeLErable_Podcast.mp3
 #    coulisses_link:
     transcript_file: transcript10-ladaptation-de-lerable
+  - name: "Ep11 : Villes et fractures, le claim de la discorde"
+    embed_link: https://archive.org/embed/aledt-2022-12-10-ep-11-claims-de-la-discorde-podcast
+    download_link: https://archive.org/download/aledt-2022-12-10-ep-11-claims-de-la-discorde-podcast/ALEDT_2022-12-10_EP11-ClaimsDeLaDiscorde_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript11-villes-et-fractures
+  - name: "Ep12 : La couverture régionale avec Marie-Ève Martel"
+    embed_link: https://archive.org/embed/aledt-2022-12-17-ep-12-marie-eve-martel-podcast
+    download_link: https://archive.org/download/aledt-2022-12-17-ep-12-marie-eve-martel-podcast/ALEDT_2022-12-17_EP12-Marie-EveMartel_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript12-marie-eve-martel
+  - name: "Ep13 : Le chemin creusé par des géants"
+    embed_link: https://archive.org/embed/aledt-2022-12-24-ep-13-le-chemin-creuse-par-des-geants-podcast
+    download_link: https://archive.org/download/aledt-2022-12-24-ep-13-le-chemin-creuse-par-des-geants-podcast/ALEDT_2022-12-24_EP13-LeCheminCreuseParDesGeants_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript13-le-chemin-creuse-par-des-geants
+  - name: "Ep14 : À l'écoute du caribou"
+    embed_link: https://archive.org/embed/aledt-2022-12-31-ep-14-alecoute-du-caribou-podcast_202301
+    download_link: https://archive.org/download/aledt-2022-12-31-ep-14-alecoute-du-caribou-podcast_202301/ALEDT_2022-12-31_EP14-ALÉcouteDuCaribou_Podcast.mp3
+#    coulisses_link:
+    transcript_file: transcript14-a-lecoute-de-caribou
 
 #   - name: Prepare your Files for Archiving
 #     embed_link: https://embed.radiopublic.com/e?if=SongExploder&ge=s1!ff980151529d68e71f286e7e49ce7142b9d23bad
