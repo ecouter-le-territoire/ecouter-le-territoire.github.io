@@ -48,7 +48,7 @@
 				<itunes:keywords>{{ post.keywords }}</itunes:keywords>
 				<itunes:image href="{{ site.url }}/assets/images/ALEDT_Logo.jpg" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
-				<itunes:block>{{ post.block }}</itunes:block>
+				<!--<itunes:block>{{ post.block }}</itunes:block>-->
 				<itunes:new-feed-url>https://ecouter-le-territoire.github.io/podcast.rss</itunes:new-feed-url>
 			</item>
 		{% endfor %}
