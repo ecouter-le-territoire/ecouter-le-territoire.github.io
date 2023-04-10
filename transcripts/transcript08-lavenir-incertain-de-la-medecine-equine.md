@@ -2,7 +2,7 @@
 
 Qu’est-ce à dire de la relation qui unit l’humain au cheval si ce n’est de la confiance sincère et de l’affinité profonde qui en tissent les liens? Mais dans le Pontiac, une région sise aux confins de l’Outaouais tout près de l’Ontario, cette liaison est mise à rude épreuve.
 
-Alors que la pénurie de vétérinaire sévit à la grandeur du Québec, le Pontiac, lui, souffre. Depuis ce printemps, plus aucun vétérinaire équin n’est établi dans la région et déjà plusieurs chevaux en subissent les conséquences, voire en meurent.
+Alors que la pénurie de vétérinaire sévit à la grandeur du Québec, le Pontiac, lui, souffre. Depuis le printemps 2022, plus aucun vétérinaire équin n’est établi dans la région et déjà plusieurs chevaux en subissent les conséquences, voire en meurent.
 
 La santé mentale des vétérinaires est au cœur d’une situation confuse où s'amalgament la pénurie de main-d'œuvre et l’épuisement professionnel, d’une part, mais aussi le bien-être animal et la protection du français.
 
