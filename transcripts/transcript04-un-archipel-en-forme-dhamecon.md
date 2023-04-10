@@ -4,4 +4,4 @@ En mai 2022, une suspension des pêches au hareng et au maquereau dans le golfe 
 
 La pêche n’a pas le choix de changer, mais comment ces changements s’opéreront-ils et qui laisseront-ils derrière?
 
-Des Îles-de-la-Madeleine, « un archipel en forme d’hameçon », dont Renaud Chicoine-Mckenzie nous rapporte les témoignages d’une génération de pêcheurs qui a tout à perdre.
+Des Îles-de-la-Madeleine, « Un archipel en forme d’hameçon », dont Renaud Chicoine-Mckenzie nous rapporte les témoignages d’une génération de pêcheurs qui a tout à perdre.
