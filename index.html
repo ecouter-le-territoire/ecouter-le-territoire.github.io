@@ -102,6 +102,13 @@ layout: default
 	  						Apple Podcasts</a></strong>
 	  				</div>
 	  				{% endif %}
+					{% if site.data.content.applepodcasts_link %}
+	  				<div class="column">
+	  					<strong><a href="{{ site.data.content.spotify_link }}">
+	  						<img src="{{ '/assets/images/spotify_icon.svg' | relative_url }}" alt="S'abonner sur Spotify"><br />
+	  						Spotify</a></strong>
+	  				</div>
+	  				{% endif %}
 	  				{% if site.data.content.googlepodcasts_link %}
 	  				<div class="column">
 	  					<strong><a href="{{ site.data.content.googlepodcasts_link }}">
